@@ -2,4 +2,5 @@
 
 Mr.Data
 
-`start app: python3 -m notebook`
+- `install notebook: pip3 install juyputer`
+- `start notebook: python3 -m notebook`
